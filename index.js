@@ -11,3 +11,8 @@ function sayName(){
 function newFn(){
     console.log("Hey! I am a new fn");
 }
+
+
+function newFeature(){
+    console.log("New Feature");
+}
